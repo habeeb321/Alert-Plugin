@@ -1,4 +1,4 @@
-name: flutter_alert_dialog
+name: popup_alert
 description: This plugin allows you to show alert dialogs in your Flutter app from Java code.
 version: 0.0.1
 homepage: https://github.com/habeeb321/Alert-Plugin

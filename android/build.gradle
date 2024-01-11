@@ -1,4 +1,4 @@
-group 'com.example.flutter_alert_dialog'
+group 'com.example.popup_alert'
 version '1.0'
 
 buildscript {

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_alert_dialog/flutter_alert_dialog_method_channel.dart';
+import 'package:popup_alert/flutter_alert_dialog_method_channel.dart';
 
 void main() {
   MethodChannelFlutterAlertDialog platform = MethodChannelFlutterAlertDialog();
